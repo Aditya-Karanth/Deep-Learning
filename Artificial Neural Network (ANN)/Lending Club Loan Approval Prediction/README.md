@@ -64,7 +64,13 @@
   - Plotting train v/s validation metrics of model.
 
 - **Tensor Board**-
-  - visualizing metrics on tensor board in colab
+  - visualizing metrics on tensor board in colab.
+  
+  &nbsp;
+  
+  <img title="epoch_accuracy" src="Images/epoch_accuracy.PNG" />
+  
+  <img title="epoch_loss" src='Images/epoch_loss.PNG' >
 
 - **New Customer Loan Repayment Prediction**
   - Training a model on whole dataset (X and y) without splitting.
