@@ -50,14 +50,14 @@
 ### **4. Evaluation**
 - **Training and Validation Losses -** 
   - Visualising training loss and validation loss.
-  <img title="Train vs Validation Loss" src="Images/Loss.JPG" />
     
 - **Predictions -** 
   - Predicting the test data
-  <img title="Prediction_steps" src="Images/Predictions.JPG" />
+<img title="Prediction_steps" src="Images/Predictions.JPG" />
   
   - plotting it against true values.
-  <img title="Predictions" src="Images/y_pred.JPG"/>
+<img title="Predictions" src="Images/y_pred.JPG"/>
+
   - Evaluation of model with RMSE and SI.
 
 ### **5. Forecasting** 
